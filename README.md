@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Johnny-Emad
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Frontend
 -
