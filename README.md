@@ -44,7 +44,6 @@ class JohnnyEmad {
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="25"/> &nbsp; I'm currently going deep into **JavaScript** and heading toward **Fullstack**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Cool" width="13%"/><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"/> &nbsp; Ask me about **Frontend, UI/UX, or freelancing as a teen**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> &nbsp; Check my work: **[johnny-emad.github.io/Johnny](https://johnny-emad.github.io/Johnny/)** <br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12"/>&nbsp;&nbsp;&nbsp;&nbsp; Fun fact: I built my first paid client website at **age 14**. 💸<br>
 
 <hr>
