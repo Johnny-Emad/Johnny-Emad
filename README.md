@@ -58,12 +58,6 @@ class JohnnyEmad {
 | General Diesel Egypt Redesign | [generaldiesel-eg.com ↗](https://johnny-emad.github.io/General-Diesel/) |
 | Personal Portfolio | [johnny-emad.github.io/Johnny ↗](https://johnny-emad.github.io/Johnny/) |
 
-<hr>
-
-<a href="https://github.com/Johnny-Emad">
-<img src="https://github-readme-stats.vercel.app/api?username=Johnny-Emad&show_icons=true&theme=nord&hide_border=true" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnny-Emad&layout=compact&theme=nord&hide_border=true" width="40%">
-</a>
 
 <hr>
 
